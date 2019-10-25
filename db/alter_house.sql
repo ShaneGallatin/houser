@@ -1,0 +1,2 @@
+ALTER TABLE house 
+DROP COLUMN imagee;
